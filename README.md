@@ -1,6 +1,6 @@
 ```mermaid
 %% 初始化主题
-%%{init: {'theme':'neutral'}}%%
+%%{init: {'theme':'forestforest'}}%%
 pie title 东北大学材料专业研究生就业去向（模拟数据）
     "先进制造与车企" : 35
     "半导体与芯片" : 25
